@@ -1,5 +1,3 @@
-# Heidi
-
 Health & Tech, Health Sciences (QueensU 🇨🇦), Data Science (Python, R, SPSS, AI/ML), Nutrition, Art, Music, Travel, Writing & more. Toronto, Canada 🇨🇦.
 
 Threads: [@heidiw.ca](https://www.threads.net/@heidiw.ca)  
