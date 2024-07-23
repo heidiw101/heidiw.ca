@@ -2,3 +2,4 @@ Health & Tech, Health Sciences (QueensU 🇨🇦), Data Science (Python, R, SPSS
 
 GitHub: [@heidiw101](https://github.com/heidiw101)  
 Bluesky: [@heidiw.ca](https://bsky.app/profile/@heidiw.ca)
+
